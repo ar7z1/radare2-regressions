@@ -1,6 +1,5 @@
 #include <r_reg.h>
 #include <r_util.h>
-#include <r_print.h>
 
 const char *reg_profile = 
 	"gpr eax .32 0 0\n"
